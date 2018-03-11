@@ -1,4 +1,4 @@
-package cw.demo.thread.wait;
+package cw.demo.concurrent.thread.wait;
 
 /**
  * Created by cw on 2018/3/10.
