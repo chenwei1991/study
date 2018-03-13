@@ -1,10 +1,9 @@
-package cw.demo.concurrent.sycn;
+package cw.demo.concurrent.lock;
 
 
 import org.apache.commons.lang3.ArrayUtils;
 
 import java.lang.management.ManagementFactory;
-import java.lang.management.ThreadInfo;
 import java.lang.management.ThreadMXBean;
 import java.util.Arrays;
 import java.util.List;
